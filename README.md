@@ -40,10 +40,6 @@ So yeah, use this for learning or just for fun, but don't trust it with anything
 - `words.txt` - Your word list (you need to add this)
 - `passwords.db` - Gets created when you save your first password
 
-## License
-
-MIT or whatever. Use it however you want. Learn from it, break it, make it better.
-
 ## Author
 
 Built by sandman.
