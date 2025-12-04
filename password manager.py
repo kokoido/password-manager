@@ -146,6 +146,11 @@ def main():
  |  _/ _` (_-<_-< V  V / _ \ '_/ _` | | |\/| / _` | ' \/ _` / _` / -_) '_|
  |_| \__,_/__/__/\_/\_/\___/_| \__,_| |_|  |_\__,_|_||_\__,_\__, \___|_|  
                                                             |___/  by sandman
+       
+       -------------------------------------------------------------
+        Look, we both know you're using the same password everywhere
+                    No judgment—but let's change that!
+        -------------------------------------------------------------
             """
     while True:
         os.system("cls" if os.name == "nt" else "clear")  # clear console
@@ -164,8 +169,7 @@ def main():
                 # Display saved passwords
                 df = manage_password_dbs("view")
                 print(df)
-                os.system('cls' if os.name == 'nt' else 'clear')
-                
+                input("\nPress Enter to return to menu...")
             elif service_type == 1:
                 # Generate a new password
                 new_password = password_generator(length_settings(), char_settings())
@@ -215,4 +219,4 @@ def main():
 
 
 if __name__ == "__main__":
-    print(main())  # start the program
+    main()  # start the program
