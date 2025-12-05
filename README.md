@@ -1,10 +1,10 @@
 # Password Manager
 
-Look, we both know you're using the same password everywhere. No judgment—but let's change that.
+Look, we both know you're using the same password everywhere. No judgment but let's change that.
 
 ## About
 
-This is a simple command-line password manager I built for fun and learning. It generates secure passwords and stores them locally so you don't have to remember everything.
+This is a simple commandline password manager I built for fun and learning. It generates secure passwords and stores them locally so you don't have to remember everything.
 
 It does the basics: creates random passwords, generates passphrases, saves them, and lets you view them later. Nothing fancy, just something that works.
 
@@ -36,10 +36,10 @@ So yeah, use this for learning or just for fun, but don't trust it with anything
 
 ## What's Included
 
-- `password_manager.py` - The main script
-- `words.txt` - Your word list (you need to add this)
-- `passwords.db` - Gets created when you save your first password
+•`password_manager.py` : The main script
+•`words.txt` : Your word list (you need to add this)
+•`passwords.db` :  Gets created when you save your first password
 
 ## Author
 
-Built by sandman.
+Sandman.
