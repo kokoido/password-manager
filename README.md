@@ -5,7 +5,7 @@ Look, we both know you're using the same password everywhere. No judgment but le
 # Screenshots
 
 
-![screenshot]("password manager CLI screenshot.png")
+![screenshot](password manager CLI screenshot.png)
 
 
 ## About
