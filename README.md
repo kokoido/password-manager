@@ -5,7 +5,7 @@ Look, we both know you're using the same password everywhere. No judgment but le
 # Screenshots
 
 
-![screenshot](password manager CLI screenshot.png)
+<img width="632" height="305" alt="Image" src="https://github.com/user-attachments/assets/eddea401-3001-4778-abbd-9b558048d402" />
 
 
 ## About
