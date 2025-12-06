@@ -2,6 +2,12 @@
 
 Look, we both know you're using the same password everywhere. No judgment but let's change that.
 
+# Screenshots
+
+
+![screenshot]("password manager CLI screenshot.png")
+
+
 ## About
 
 This is a simple commandline password manager I built for fun and learning. It generates secure passwords and stores them locally so you don't have to remember everything.
