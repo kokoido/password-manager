@@ -7,7 +7,7 @@ Look, we both know you're using the same password everywhere. No judgment but le
 
 <img width="632" height="305" alt="Image" src="https://github.com/user-attachments/assets/eddea401-3001-4778-abbd-9b558048d402" />
 
-
+<img width="606" height="214" alt="Image" src="https://github.com/user-attachments/assets/7243532d-b16f-4ad0-bd9b-056846fd0cf5" />
 ## About
 
 This is a simple commandline password manager I built for fun and learning. It generates secure passwords and stores them locally so you don't have to remember everything.
