@@ -24,7 +24,7 @@ You'll need Python 3 and a couple of libraries:
 pip install pyperclip pandas
 ```
 
-You'll also need a `words.txt` file with a list of words (one per line) for the passphrase generator. Any word list works—just search for "common words list" online.
+You'll also need a `words.txt` file with a list of words (one per line) for the passphrase generator. Any word list works, just search for "common words list" online.
 
 ## Usage
 
