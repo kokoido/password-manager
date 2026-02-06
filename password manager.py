@@ -148,8 +148,8 @@ def main():
                                                             |___/  by sandman
        
        -------------------------------------------------------------
-        Look, we both know you're using the same password everywhere
-                    No judgment—but let's change that!
+        Look, NO need to use this program but at least change your
+                    Passwords more often buddy!
         -------------------------------------------------------------
             """
     while True:
